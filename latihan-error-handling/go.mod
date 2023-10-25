@@ -1,0 +1,3 @@
+module lat-error-handling
+
+go 1.21.1
